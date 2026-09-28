@@ -1,0 +1,32 @@
+[
+    {
+        "kode": "p01",
+        "nama": "Indomie Goreng",
+        "harga": 3000,
+        "stok": 5
+    },
+    {
+        "kode": "p02",
+        "nama": "Indomie Rebus",
+        "harga": 3000,
+        "stok": 8
+    },
+    {
+        "kode": "p03",
+        "nama": "Indomie Soto",
+        "harga": 3000,
+        "stok": 8
+    },
+    {
+        "kode": "p04",
+        "nama": "Indomie Kari Ayam",
+        "harga": 3000,
+        "stok": 10
+    },
+    {
+        "kode": "p05",
+        "nama": "Indomie Ayam Bawang",
+        "harga": 3000,
+        "stok": 10
+    }
+]

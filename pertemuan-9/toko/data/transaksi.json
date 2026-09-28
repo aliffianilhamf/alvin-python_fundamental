@@ -1,0 +1,25 @@
+[
+    {
+        "kode": "p01",
+        "nama": "Indomie Goreng",
+        "harga": 3000,
+        "jumlah": 5,
+        "subtotal": 15000
+    },
+    {
+        "tanggal": "2026-09-16 12:25:04",
+        "kode": "p02",
+        "nama": "Indomie Rebus",
+        "harga": 3000,
+        "jumlah": 2,
+        "subtotal": 6000
+    },
+    {
+        "tanggal": "2026-09-16 12:26:17",
+        "kode": "p03",
+        "nama": "Indomie Soto",
+        "harga": 3000,
+        "jumlah": 2,
+        "subtotal": 6000
+    }
+]
